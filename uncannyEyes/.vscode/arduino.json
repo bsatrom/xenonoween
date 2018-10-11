@@ -1,0 +1,5 @@
+{
+    "board": "adafruit:samd:adafruit_hallowing",
+    "port": "/dev/cu.usbmodem14421",
+    "sketch": "uncannyEyes.ino"
+}
